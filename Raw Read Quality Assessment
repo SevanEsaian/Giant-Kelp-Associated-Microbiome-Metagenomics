@@ -1,4 +1,0 @@
-Giant-Kelp-Associated-Microbiome-Metagenomics
-
- Step 1 - Raw read quality control using fastqc & bbtools (i.e., inspecting, trimming, and reinspecting reads).
-    
