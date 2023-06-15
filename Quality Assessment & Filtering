@@ -1,3 +1,4 @@
+# Quality Assesment
 Quality assessment is vital in your metagenomic assembly pipeline. 
 Assembling contigs with poor quality reads leads to a variety of downstream issues including: poor assembly, poor binning, and poor results. 
 Filtering out poor quality reads increases the production of meaningful assemblies, bins, and taxonomic identification, for your microbiome samples.
