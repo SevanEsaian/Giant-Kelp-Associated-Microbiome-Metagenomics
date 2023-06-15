@@ -12,3 +12,4 @@ After downloading all of your desired files, double check that you have paired r
 Next, make sure you have installed conda and fastqc. 
 To install conda: https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html
 To install fastqc: https://anaconda.org/bioconda/fastqc
+
