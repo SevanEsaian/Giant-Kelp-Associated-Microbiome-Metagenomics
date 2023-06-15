@@ -1,1 +1,1 @@
-Step 1 - quality assessing raw reads using fastqc.
+Quality assessment is vital in your metagenomic assembly pipeline. Assembling contigs with poor quality reads leads to a variety of downstream issues including: poor assembly, poor binning, and poor results. 
